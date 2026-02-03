@@ -12,7 +12,7 @@ I am a Computer Science Engineer specialized in Data Science, driven by the miss
 
 I am currently preparing for the RapidMiner Data Engineering (Master) Certification, while also expanding my expertise into Cloud Computing and DevOps for scalable analytics workflows. Outside tech, I’m an avid cricket player, lifelong learner, and someone who thrives on innovation and creativity.
 
-🌍 Portfolio: https://pranaydhore.github.io/Portfolio/
+🌍 Portfolio:
 
 🔧 Tech Stack & Tools
 💻 Languages & Frameworks
